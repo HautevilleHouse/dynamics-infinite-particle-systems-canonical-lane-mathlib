@@ -1,0 +1,23 @@
+import canonicalLaneMathlib.AdmissibleClass
+import canonicalLaneMathlib.BridgeLemmas
+import canonicalLaneMathlib.GateLemmas
+import canonicalLaneMathlib.FinalTheorem
+import canonicalLaneMathlib.InfiniteParticleSystem
+import canonicalLaneMathlib.CorrelationFunctions
+import canonicalLaneMathlib.LimitTheorems
+import canonicalLaneMathlib.PhaseTransition
+import canonicalLaneMathlib.DynamicsClosureTheorem
+
+/-!
+# Dynamics Infinite Particle Systems Canonical Lane Lean
+
+Root module aggregating all imports.
+-/
+
+namespace HautevilleHouse
+namespace DynamicsInfiniteParticleSystemsCanonicalLaneLean
+
+-- No additional definitions
+
+end DynamicsInfiniteParticleSystemsCanonicalLaneLean
+end HautevilleHouse
